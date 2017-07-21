@@ -1,0 +1,27 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Node.js with post twit and add favorites or get other twits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlhcelik/twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "post"
+  ],
+  "author": "Talha Celik",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tlhcelik/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/tlhcelik/twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
